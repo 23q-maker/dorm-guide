@@ -1,4 +1,3 @@
-
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
@@ -33,6 +32,13 @@ function serveFile(res, filePath) {
 
 const server = http.createServer((req, res) => {
   let urlPath = req.url.split('?')[0].split('#')[0];
+  
+  // Strip /dorm-guide/ prefix so same HTML works on localhost and GitHub Pages
+  if (urlPath.startsWith('/dorm-guide/')) {
+    urlPath = urlPath.replace('/dorm-guide', '');
+  } else if (urlPath === '/dorm-guide') {
+    urlPath = '/';
+  }
   
   // Try exact file match first
   const filePath = path.join(ROOT, urlPath);
