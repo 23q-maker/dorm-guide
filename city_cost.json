@@ -1,0 +1,1942 @@
+{
+  "上海": {
+    "province": "上海",
+    "school_count": 31,
+    "canteen": 20,
+    "rent_near": 2500,
+    "transit_monthly": 150,
+    "bubble_tea": 24,
+    "monthly_total": 3800,
+    "tier": 1
+  },
+  "大理": {
+    "province": "云南",
+    "school_count": 4,
+    "canteen": 11,
+    "rent_near": 630,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1426,
+    "tier": 4
+  },
+  "昆明": {
+    "province": "云南",
+    "school_count": 11,
+    "canteen": 12,
+    "rent_near": 1000,
+    "transit_monthly": 80,
+    "bubble_tea": 15,
+    "monthly_total": 1900,
+    "tier": 2
+  },
+  "曲靖": {
+    "province": "云南",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 637,
+    "transit_monthly": 61,
+    "bubble_tea": 14,
+    "monthly_total": 1453,
+    "tier": 4
+  },
+  "楚雄": {
+    "province": "云南",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 662,
+    "transit_monthly": 60,
+    "bubble_tea": 12,
+    "monthly_total": 1403,
+    "tier": 4
+  },
+  "玉溪": {
+    "province": "云南",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 655,
+    "transit_monthly": 58,
+    "bubble_tea": 13,
+    "monthly_total": 1422,
+    "tier": 4
+  },
+  "红河": {
+    "province": "云南",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 638,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1489,
+    "tier": 4
+  },
+  "包头": {
+    "province": "内蒙古",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 632,
+    "transit_monthly": 56,
+    "bubble_tea": 12,
+    "monthly_total": 1472,
+    "tier": 4
+  },
+  "呼伦贝尔": {
+    "province": "内蒙古",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 668,
+    "transit_monthly": 55,
+    "bubble_tea": 13,
+    "monthly_total": 1437,
+    "tier": 4
+  },
+  "呼和浩特": {
+    "province": "内蒙古",
+    "school_count": 7,
+    "canteen": 11,
+    "rent_near": 750,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1550,
+    "tier": 2
+  },
+  "赤峰": {
+    "province": "内蒙古",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 698,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1518,
+    "tier": 4
+  },
+  "通辽": {
+    "province": "内蒙古",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 688,
+    "transit_monthly": 57,
+    "bubble_tea": 12,
+    "monthly_total": 1477,
+    "tier": 4
+  },
+  "鄂尔多斯": {
+    "province": "内蒙古",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 701,
+    "transit_monthly": 66,
+    "bubble_tea": 13,
+    "monthly_total": 1550,
+    "tier": 4
+  },
+  "北京": {
+    "province": "北京",
+    "school_count": 63,
+    "canteen": 19,
+    "rent_near": 2400,
+    "transit_monthly": 150,
+    "bubble_tea": 23,
+    "monthly_total": 3600,
+    "tier": 1
+  },
+  "吉林": {
+    "province": "吉林",
+    "school_count": 4,
+    "canteen": 11,
+    "rent_near": 691,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1586,
+    "tier": 4
+  },
+  "四平": {
+    "province": "吉林",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 689,
+    "transit_monthly": 61,
+    "bubble_tea": 13,
+    "monthly_total": 1354,
+    "tier": 4
+  },
+  "延边": {
+    "province": "吉林",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 575,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1490,
+    "tier": 4
+  },
+  "白城": {
+    "province": "吉林",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 567,
+    "transit_monthly": 57,
+    "bubble_tea": 13,
+    "monthly_total": 1392,
+    "tier": 4
+  },
+  "通化": {
+    "province": "吉林",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 568,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1419,
+    "tier": 4
+  },
+  "长春": {
+    "province": "吉林",
+    "school_count": 10,
+    "canteen": 11,
+    "rent_near": 800,
+    "transit_monthly": 70,
+    "bubble_tea": 13,
+    "monthly_total": 1600,
+    "tier": 2
+  },
+  "乐山": {
+    "province": "四川",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 646,
+    "transit_monthly": 60,
+    "bubble_tea": 12,
+    "monthly_total": 1601,
+    "tier": 4
+  },
+  "南充": {
+    "province": "四川",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 710,
+    "transit_monthly": 54,
+    "bubble_tea": 12,
+    "monthly_total": 1594,
+    "tier": 4
+  },
+  "宜宾": {
+    "province": "四川",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 637,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1409,
+    "tier": 4
+  },
+  "成都": {
+    "province": "四川",
+    "school_count": 15,
+    "canteen": 13,
+    "rent_near": 1300,
+    "transit_monthly": 100,
+    "bubble_tea": 16,
+    "monthly_total": 2200,
+    "tier": 2
+  },
+  "泸州": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 700,
+    "transit_monthly": 60,
+    "bubble_tea": 14,
+    "monthly_total": 1524,
+    "tier": 4
+  },
+  "绵阳": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 555,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1374,
+    "tier": 4
+  },
+  "自贡": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 734,
+    "transit_monthly": 61,
+    "bubble_tea": 13,
+    "monthly_total": 1382,
+    "tier": 4
+  },
+  "西昌": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 718,
+    "transit_monthly": 56,
+    "bubble_tea": 14,
+    "monthly_total": 1562,
+    "tier": 4
+  },
+  "达州": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 573,
+    "transit_monthly": 57,
+    "bubble_tea": 13,
+    "monthly_total": 1380,
+    "tier": 4
+  },
+  "雅安": {
+    "province": "四川",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 644,
+    "transit_monthly": 63,
+    "bubble_tea": 13,
+    "monthly_total": 1378,
+    "tier": 4
+  },
+  "天津": {
+    "province": "天津",
+    "school_count": 20,
+    "canteen": 14,
+    "rent_near": 1500,
+    "transit_monthly": 100,
+    "bubble_tea": 17,
+    "monthly_total": 2500,
+    "tier": 2
+  },
+  "固原": {
+    "province": "宁夏",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 559,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1401,
+    "tier": 4
+  },
+  "银川": {
+    "province": "宁夏",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 650,
+    "transit_monthly": 60,
+    "bubble_tea": 12,
+    "monthly_total": 1400,
+    "tier": 2
+  },
+  "合肥": {
+    "province": "安徽",
+    "school_count": 9,
+    "canteen": 12,
+    "rent_near": 1000,
+    "transit_monthly": 80,
+    "bubble_tea": 15,
+    "monthly_total": 1900,
+    "tier": 2
+  },
+  "安庆": {
+    "province": "安徽",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 561,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1508,
+    "tier": 4
+  },
+  "淮北": {
+    "province": "安徽",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 553,
+    "transit_monthly": 61,
+    "bubble_tea": 12,
+    "monthly_total": 1639,
+    "tier": 4
+  },
+  "淮南": {
+    "province": "安徽",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 685,
+    "transit_monthly": 60,
+    "bubble_tea": 14,
+    "monthly_total": 1574,
+    "tier": 4
+  },
+  "芜湖": {
+    "province": "安徽",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 701,
+    "transit_monthly": 64,
+    "bubble_tea": 14,
+    "monthly_total": 1381,
+    "tier": 4
+  },
+  "蚌埠": {
+    "province": "安徽",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 612,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1473,
+    "tier": 4
+  },
+  "阜阳": {
+    "province": "安徽",
+    "school_count": 1,
+    "canteen": 11,
+    "rent_near": 559,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1558,
+    "tier": 4
+  },
+  "马鞍山": {
+    "province": "安徽",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 583,
+    "transit_monthly": 64,
+    "bubble_tea": 12,
+    "monthly_total": 1361,
+    "tier": 4
+  },
+  "临沂": {
+    "province": "山东",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 667,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1591,
+    "tier": 4
+  },
+  "威海": {
+    "province": "山东",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 713,
+    "transit_monthly": 61,
+    "bubble_tea": 13,
+    "monthly_total": 1448,
+    "tier": 4
+  },
+  "泰安": {
+    "province": "山东",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 675,
+    "transit_monthly": 65,
+    "bubble_tea": 14,
+    "monthly_total": 1549,
+    "tier": 4
+  },
+  "济南": {
+    "province": "山东",
+    "school_count": 15,
+    "canteen": 12,
+    "rent_near": 1000,
+    "transit_monthly": 80,
+    "bubble_tea": 14,
+    "monthly_total": 1900,
+    "tier": 2
+  },
+  "济宁": {
+    "province": "山东",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 624,
+    "transit_monthly": 64,
+    "bubble_tea": 12,
+    "monthly_total": 1351,
+    "tier": 4
+  },
+  "淄博": {
+    "province": "山东",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 708,
+    "transit_monthly": 56,
+    "bubble_tea": 12,
+    "monthly_total": 1613,
+    "tier": 4
+  },
+  "潍坊": {
+    "province": "山东",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 555,
+    "transit_monthly": 54,
+    "bubble_tea": 13,
+    "monthly_total": 1440,
+    "tier": 4
+  },
+  "烟台": {
+    "province": "山东",
+    "school_count": 5,
+    "canteen": 10,
+    "rent_near": 694,
+    "transit_monthly": 62,
+    "bubble_tea": 14,
+    "monthly_total": 1541,
+    "tier": 4
+  },
+  "聊城": {
+    "province": "山东",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 612,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1493,
+    "tier": 4
+  },
+  "青岛": {
+    "province": "山东",
+    "school_count": 8,
+    "canteen": 13,
+    "rent_near": 1200,
+    "transit_monthly": 80,
+    "bubble_tea": 16,
+    "monthly_total": 2100,
+    "tier": 2
+  },
+  "临汾": {
+    "province": "山西",
+    "school_count": 4,
+    "canteen": 9,
+    "rent_near": 648,
+    "transit_monthly": 64,
+    "bubble_tea": 12,
+    "monthly_total": 1426,
+    "tier": 4
+  },
+  "大同": {
+    "province": "山西",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 690,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1351,
+    "tier": 4
+  },
+  "太原": {
+    "province": "山西",
+    "school_count": 9,
+    "canteen": 11,
+    "rent_near": 800,
+    "transit_monthly": 70,
+    "bubble_tea": 13,
+    "monthly_total": 1600,
+    "tier": 2
+  },
+  "忻州": {
+    "province": "山西",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 720,
+    "transit_monthly": 58,
+    "bubble_tea": 14,
+    "monthly_total": 1374,
+    "tier": 4
+  },
+  "晋中": {
+    "province": "山西",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 681,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1395,
+    "tier": 4
+  },
+  "运城": {
+    "province": "山西",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 743,
+    "transit_monthly": 65,
+    "bubble_tea": 14,
+    "monthly_total": 1471,
+    "tier": 4
+  },
+  "长治": {
+    "province": "山西",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 575,
+    "transit_monthly": 58,
+    "bubble_tea": 12,
+    "monthly_total": 1568,
+    "tier": 4
+  },
+  "东莞": {
+    "province": "广东",
+    "school_count": 3,
+    "canteen": 14,
+    "rent_near": 1600,
+    "transit_monthly": 100,
+    "bubble_tea": 18,
+    "monthly_total": 2600,
+    "tier": 2
+  },
+  "佛山": {
+    "province": "广东",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 728,
+    "transit_monthly": 63,
+    "bubble_tea": 13,
+    "monthly_total": 1576,
+    "tier": 4
+  },
+  "广州": {
+    "province": "广东",
+    "school_count": 19,
+    "canteen": 16,
+    "rent_near": 1900,
+    "transit_monthly": 140,
+    "bubble_tea": 20,
+    "monthly_total": 3200,
+    "tier": 1
+  },
+  "惠州": {
+    "province": "广东",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 585,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1492,
+    "tier": 4
+  },
+  "梅州": {
+    "province": "广东",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 672,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1531,
+    "tier": 4
+  },
+  "汕头": {
+    "province": "广东",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 597,
+    "transit_monthly": 54,
+    "bubble_tea": 14,
+    "monthly_total": 1443,
+    "tier": 4
+  },
+  "江门": {
+    "province": "广东",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 619,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1596,
+    "tier": 4
+  },
+  "深圳": {
+    "province": "广东",
+    "school_count": 5,
+    "canteen": 18,
+    "rent_near": 2200,
+    "transit_monthly": 160,
+    "bubble_tea": 22,
+    "monthly_total": 3500,
+    "tier": 1
+  },
+  "湛江": {
+    "province": "广东",
+    "school_count": 4,
+    "canteen": 11,
+    "rent_near": 568,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1480,
+    "tier": 4
+  },
+  "珠海": {
+    "province": "广东",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 571,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1558,
+    "tier": 4
+  },
+  "肇庆": {
+    "province": "广东",
+    "school_count": 1,
+    "canteen": 9,
+    "rent_near": 721,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1546,
+    "tier": 4
+  },
+  "茂名": {
+    "province": "广东",
+    "school_count": 1,
+    "canteen": 9,
+    "rent_near": 574,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1491,
+    "tier": 4
+  },
+  "韶关": {
+    "province": "广东",
+    "school_count": 1,
+    "canteen": 11,
+    "rent_near": 567,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1490,
+    "tier": 4
+  },
+  "南宁": {
+    "province": "广西",
+    "school_count": 9,
+    "canteen": 11,
+    "rent_near": 900,
+    "transit_monthly": 70,
+    "bubble_tea": 14,
+    "monthly_total": 1700,
+    "tier": 2
+  },
+  "柳州": {
+    "province": "广西",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 668,
+    "transit_monthly": 56,
+    "bubble_tea": 14,
+    "monthly_total": 1388,
+    "tier": 4
+  },
+  "桂林": {
+    "province": "广西",
+    "school_count": 6,
+    "canteen": 9,
+    "rent_near": 589,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1416,
+    "tier": 4
+  },
+  "河池": {
+    "province": "广西",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 595,
+    "transit_monthly": 55,
+    "bubble_tea": 13,
+    "monthly_total": 1622,
+    "tier": 4
+  },
+  "玉林": {
+    "province": "广西",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 579,
+    "transit_monthly": 57,
+    "bubble_tea": 12,
+    "monthly_total": 1650,
+    "tier": 4
+  },
+  "百色": {
+    "province": "广西",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 736,
+    "transit_monthly": 60,
+    "bubble_tea": 14,
+    "monthly_total": 1613,
+    "tier": 4
+  },
+  "乌鲁木齐": {
+    "province": "新疆",
+    "school_count": 9,
+    "canteen": 11,
+    "rent_near": 750,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1550,
+    "tier": 2
+  },
+  "伊宁": {
+    "province": "新疆",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 659,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1522,
+    "tier": 4
+  },
+  "喀什": {
+    "province": "新疆",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 741,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1439,
+    "tier": 4
+  },
+  "昌吉": {
+    "province": "新疆",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 624,
+    "transit_monthly": 57,
+    "bubble_tea": 12,
+    "monthly_total": 1521,
+    "tier": 4
+  },
+  "石河子": {
+    "province": "新疆",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 646,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1406,
+    "tier": 4
+  },
+  "阿克苏": {
+    "province": "新疆",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 676,
+    "transit_monthly": 58,
+    "bubble_tea": 13,
+    "monthly_total": 1373,
+    "tier": 4
+  },
+  "阿拉尔": {
+    "province": "新疆",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 707,
+    "transit_monthly": 61,
+    "bubble_tea": 14,
+    "monthly_total": 1431,
+    "tier": 4
+  },
+  "南京": {
+    "province": "江苏",
+    "school_count": 21,
+    "canteen": 14,
+    "rent_near": 1400,
+    "transit_monthly": 90,
+    "bubble_tea": 17,
+    "monthly_total": 2400,
+    "tier": 2
+  },
+  "南通": {
+    "province": "江苏",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 683,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1489,
+    "tier": 4
+  },
+  "常州": {
+    "province": "江苏",
+    "school_count": 4,
+    "canteen": 11,
+    "rent_near": 568,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1402,
+    "tier": 4
+  },
+  "徐州": {
+    "province": "江苏",
+    "school_count": 5,
+    "canteen": 10,
+    "rent_near": 567,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1618,
+    "tier": 4
+  },
+  "扬州": {
+    "province": "江苏",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 640,
+    "transit_monthly": 54,
+    "bubble_tea": 14,
+    "monthly_total": 1451,
+    "tier": 4
+  },
+  "无锡": {
+    "province": "江苏",
+    "school_count": 3,
+    "canteen": 13,
+    "rent_near": 1300,
+    "transit_monthly": 80,
+    "bubble_tea": 16,
+    "monthly_total": 2200,
+    "tier": 2
+  },
+  "淮安": {
+    "province": "江苏",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 660,
+    "transit_monthly": 58,
+    "bubble_tea": 14,
+    "monthly_total": 1630,
+    "tier": 4
+  },
+  "盐城": {
+    "province": "江苏",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 555,
+    "transit_monthly": 59,
+    "bubble_tea": 12,
+    "monthly_total": 1535,
+    "tier": 4
+  },
+  "苏州": {
+    "province": "江苏",
+    "school_count": 5,
+    "canteen": 14,
+    "rent_near": 1700,
+    "transit_monthly": 100,
+    "bubble_tea": 18,
+    "monthly_total": 2700,
+    "tier": 2
+  },
+  "连云港": {
+    "province": "江苏",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 615,
+    "transit_monthly": 56,
+    "bubble_tea": 14,
+    "monthly_total": 1550,
+    "tier": 4
+  },
+  "镇江": {
+    "province": "江苏",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 632,
+    "transit_monthly": 61,
+    "bubble_tea": 12,
+    "monthly_total": 1358,
+    "tier": 4
+  },
+  "上饶": {
+    "province": "江西",
+    "school_count": 1,
+    "canteen": 11,
+    "rent_near": 609,
+    "transit_monthly": 59,
+    "bubble_tea": 12,
+    "monthly_total": 1605,
+    "tier": 4
+  },
+  "九江": {
+    "province": "江西",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 666,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1627,
+    "tier": 4
+  },
+  "南昌": {
+    "province": "江西",
+    "school_count": 11,
+    "canteen": 11,
+    "rent_near": 900,
+    "transit_monthly": 70,
+    "bubble_tea": 14,
+    "monthly_total": 1700,
+    "tier": 2
+  },
+  "吉安": {
+    "province": "江西",
+    "school_count": 1,
+    "canteen": 11,
+    "rent_near": 650,
+    "transit_monthly": 64,
+    "bubble_tea": 14,
+    "monthly_total": 1352,
+    "tier": 4
+  },
+  "宜春": {
+    "province": "江西",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 691,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1598,
+    "tier": 4
+  },
+  "景德镇": {
+    "province": "江西",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 719,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1487,
+    "tier": 4
+  },
+  "赣州": {
+    "province": "江西",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 733,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1523,
+    "tier": 4
+  },
+  "保定": {
+    "province": "河北",
+    "school_count": 6,
+    "canteen": 10,
+    "rent_near": 596,
+    "transit_monthly": 54,
+    "bubble_tea": 14,
+    "monthly_total": 1373,
+    "tier": 4
+  },
+  "唐山": {
+    "province": "河北",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 606,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1449,
+    "tier": 4
+  },
+  "廊坊": {
+    "province": "河北",
+    "school_count": 5,
+    "canteen": 11,
+    "rent_near": 624,
+    "transit_monthly": 55,
+    "bubble_tea": 14,
+    "monthly_total": 1369,
+    "tier": 4
+  },
+  "张家口": {
+    "province": "河北",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 660,
+    "transit_monthly": 58,
+    "bubble_tea": 14,
+    "monthly_total": 1359,
+    "tier": 4
+  },
+  "承德": {
+    "province": "河北",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 565,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1605,
+    "tier": 4
+  },
+  "沧州": {
+    "province": "河北",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 704,
+    "transit_monthly": 64,
+    "bubble_tea": 14,
+    "monthly_total": 1395,
+    "tier": 4
+  },
+  "石家庄": {
+    "province": "河北",
+    "school_count": 8,
+    "canteen": 11,
+    "rent_near": 900,
+    "transit_monthly": 70,
+    "bubble_tea": 13,
+    "monthly_total": 1700,
+    "tier": 2
+  },
+  "秦皇岛": {
+    "province": "河北",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 686,
+    "transit_monthly": 56,
+    "bubble_tea": 14,
+    "monthly_total": 1582,
+    "tier": 4
+  },
+  "衡水": {
+    "province": "河北",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 629,
+    "transit_monthly": 58,
+    "bubble_tea": 12,
+    "monthly_total": 1372,
+    "tier": 4
+  },
+  "邢台": {
+    "province": "河北",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 710,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1479,
+    "tier": 4
+  },
+  "邯郸": {
+    "province": "河北",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 714,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1380,
+    "tier": 4
+  },
+  "信阳": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 678,
+    "transit_monthly": 54,
+    "bubble_tea": 13,
+    "monthly_total": 1613,
+    "tier": 4
+  },
+  "南阳": {
+    "province": "河南",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 682,
+    "transit_monthly": 65,
+    "bubble_tea": 12,
+    "monthly_total": 1413,
+    "tier": 4
+  },
+  "周口": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 656,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1649,
+    "tier": 4
+  },
+  "商丘": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 591,
+    "transit_monthly": 54,
+    "bubble_tea": 14,
+    "monthly_total": 1558,
+    "tier": 4
+  },
+  "安阳": {
+    "province": "河南",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 674,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1380,
+    "tier": 4
+  },
+  "开封": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 666,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1369,
+    "tier": 4
+  },
+  "新乡": {
+    "province": "河南",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 614,
+    "transit_monthly": 59,
+    "bubble_tea": 14,
+    "monthly_total": 1420,
+    "tier": 4
+  },
+  "洛阳": {
+    "province": "河南",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 596,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1384,
+    "tier": 4
+  },
+  "焦作": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 684,
+    "transit_monthly": 60,
+    "bubble_tea": 14,
+    "monthly_total": 1497,
+    "tier": 4
+  },
+  "许昌": {
+    "province": "河南",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 611,
+    "transit_monthly": 61,
+    "bubble_tea": 14,
+    "monthly_total": 1454,
+    "tier": 4
+  },
+  "郑州": {
+    "province": "河南",
+    "school_count": 15,
+    "canteen": 12,
+    "rent_near": 1000,
+    "transit_monthly": 80,
+    "bubble_tea": 14,
+    "monthly_total": 1900,
+    "tier": 2
+  },
+  "台州": {
+    "province": "浙江",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 650,
+    "transit_monthly": 64,
+    "bubble_tea": 12,
+    "monthly_total": 1588,
+    "tier": 4
+  },
+  "嘉兴": {
+    "province": "浙江",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 564,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1465,
+    "tier": 4
+  },
+  "宁波": {
+    "province": "浙江",
+    "school_count": 6,
+    "canteen": 14,
+    "rent_near": 1400,
+    "transit_monthly": 90,
+    "bubble_tea": 17,
+    "monthly_total": 2400,
+    "tier": 2
+  },
+  "杭州": {
+    "province": "浙江",
+    "school_count": 17,
+    "canteen": 15,
+    "rent_near": 1600,
+    "transit_monthly": 100,
+    "bubble_tea": 18,
+    "monthly_total": 2600,
+    "tier": 2
+  },
+  "温州": {
+    "province": "浙江",
+    "school_count": 4,
+    "canteen": 13,
+    "rent_near": 1300,
+    "transit_monthly": 80,
+    "bubble_tea": 16,
+    "monthly_total": 2200,
+    "tier": 2
+  },
+  "湖州": {
+    "province": "浙江",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 695,
+    "transit_monthly": 54,
+    "bubble_tea": 13,
+    "monthly_total": 1454,
+    "tier": 4
+  },
+  "绍兴": {
+    "province": "浙江",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 638,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1439,
+    "tier": 4
+  },
+  "舟山": {
+    "province": "浙江",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 642,
+    "transit_monthly": 65,
+    "bubble_tea": 14,
+    "monthly_total": 1357,
+    "tier": 4
+  },
+  "金华": {
+    "province": "浙江",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 731,
+    "transit_monthly": 58,
+    "bubble_tea": 14,
+    "monthly_total": 1446,
+    "tier": 4
+  },
+  "三亚": {
+    "province": "海南",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 594,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1483,
+    "tier": 4
+  },
+  "海口": {
+    "province": "海南",
+    "school_count": 4,
+    "canteen": 12,
+    "rent_near": 1100,
+    "transit_monthly": 80,
+    "bubble_tea": 15,
+    "monthly_total": 2000,
+    "tier": 2
+  },
+  "十堰": {
+    "province": "湖北",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 708,
+    "transit_monthly": 58,
+    "bubble_tea": 13,
+    "monthly_total": 1546,
+    "tier": 4
+  },
+  "宜昌": {
+    "province": "湖北",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 663,
+    "transit_monthly": 63,
+    "bubble_tea": 12,
+    "monthly_total": 1542,
+    "tier": 4
+  },
+  "恩施": {
+    "province": "湖北",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 695,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1467,
+    "tier": 4
+  },
+  "武汉": {
+    "province": "湖北",
+    "school_count": 22,
+    "canteen": 13,
+    "rent_near": 1100,
+    "transit_monthly": 90,
+    "bubble_tea": 15,
+    "monthly_total": 2000,
+    "tier": 2
+  },
+  "荆州": {
+    "province": "湖北",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 702,
+    "transit_monthly": 58,
+    "bubble_tea": 12,
+    "monthly_total": 1477,
+    "tier": 4
+  },
+  "襄阳": {
+    "province": "湖北",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 730,
+    "transit_monthly": 58,
+    "bubble_tea": 14,
+    "monthly_total": 1572,
+    "tier": 4
+  },
+  "黄冈": {
+    "province": "湖北",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 583,
+    "transit_monthly": 55,
+    "bubble_tea": 12,
+    "monthly_total": 1591,
+    "tier": 4
+  },
+  "黄石": {
+    "province": "湖北",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 733,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1617,
+    "tier": 4
+  },
+  "吉首": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 733,
+    "transit_monthly": 64,
+    "bubble_tea": 13,
+    "monthly_total": 1530,
+    "tier": 4
+  },
+  "岳阳": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 661,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1582,
+    "tier": 4
+  },
+  "常德": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 649,
+    "transit_monthly": 66,
+    "bubble_tea": 13,
+    "monthly_total": 1370,
+    "tier": 4
+  },
+  "怀化": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 601,
+    "transit_monthly": 66,
+    "bubble_tea": 14,
+    "monthly_total": 1566,
+    "tier": 4
+  },
+  "株洲": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 671,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1503,
+    "tier": 4
+  },
+  "永州": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 627,
+    "transit_monthly": 63,
+    "bubble_tea": 12,
+    "monthly_total": 1467,
+    "tier": 4
+  },
+  "湘潭": {
+    "province": "湖南",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 632,
+    "transit_monthly": 59,
+    "bubble_tea": 13,
+    "monthly_total": 1627,
+    "tier": 4
+  },
+  "衡阳": {
+    "province": "湖南",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 732,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1414,
+    "tier": 4
+  },
+  "邵阳": {
+    "province": "湖南",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 679,
+    "transit_monthly": 56,
+    "bubble_tea": 12,
+    "monthly_total": 1468,
+    "tier": 4
+  },
+  "郴州": {
+    "province": "湖南",
+    "school_count": 1,
+    "canteen": 10,
+    "rent_near": 656,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1389,
+    "tier": 4
+  },
+  "长沙": {
+    "province": "湖南",
+    "school_count": 13,
+    "canteen": 13,
+    "rent_near": 1100,
+    "transit_monthly": 80,
+    "bubble_tea": 15,
+    "monthly_total": 2000,
+    "tier": 2
+  },
+  "兰州": {
+    "province": "甘肃",
+    "school_count": 12,
+    "canteen": 11,
+    "rent_near": 700,
+    "transit_monthly": 60,
+    "bubble_tea": 13,
+    "monthly_total": 1500,
+    "tier": 2
+  },
+  "天水": {
+    "province": "甘肃",
+    "school_count": 4,
+    "canteen": 11,
+    "rent_near": 688,
+    "transit_monthly": 63,
+    "bubble_tea": 13,
+    "monthly_total": 1619,
+    "tier": 4
+  },
+  "庆阳": {
+    "province": "甘肃",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 692,
+    "transit_monthly": 59,
+    "bubble_tea": 12,
+    "monthly_total": 1630,
+    "tier": 4
+  },
+  "河西": {
+    "province": "甘肃",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 569,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1596,
+    "tier": 4
+  },
+  "陇南": {
+    "province": "甘肃",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 593,
+    "transit_monthly": 59,
+    "bubble_tea": 14,
+    "monthly_total": 1498,
+    "tier": 4
+  },
+  "三明": {
+    "province": "福建",
+    "school_count": 3,
+    "canteen": 10,
+    "rent_near": 730,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1447,
+    "tier": 4
+  },
+  "南平": {
+    "province": "福建",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 576,
+    "transit_monthly": 64,
+    "bubble_tea": 12,
+    "monthly_total": 1542,
+    "tier": 4
+  },
+  "厦门": {
+    "province": "福建",
+    "school_count": 4,
+    "canteen": 14,
+    "rent_near": 1500,
+    "transit_monthly": 90,
+    "bubble_tea": 17,
+    "monthly_total": 2500,
+    "tier": 2
+  },
+  "泉州": {
+    "province": "福建",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 629,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1465,
+    "tier": 4
+  },
+  "漳州": {
+    "province": "福建",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 630,
+    "transit_monthly": 61,
+    "bubble_tea": 14,
+    "monthly_total": 1542,
+    "tier": 4
+  },
+  "福州": {
+    "province": "福建",
+    "school_count": 10,
+    "canteen": 13,
+    "rent_near": 1100,
+    "transit_monthly": 80,
+    "bubble_tea": 16,
+    "monthly_total": 2000,
+    "tier": 2
+  },
+  "莆田": {
+    "province": "福建",
+    "school_count": 2,
+    "canteen": 11,
+    "rent_near": 639,
+    "transit_monthly": 65,
+    "bubble_tea": 14,
+    "monthly_total": 1494,
+    "tier": 4
+  },
+  "龙岩": {
+    "province": "福建",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 607,
+    "transit_monthly": 62,
+    "bubble_tea": 12,
+    "monthly_total": 1453,
+    "tier": 4
+  },
+  "拉萨": {
+    "province": "西藏",
+    "school_count": 5,
+    "canteen": 12,
+    "rent_near": 900,
+    "transit_monthly": 60,
+    "bubble_tea": 14,
+    "monthly_total": 1800,
+    "tier": 2
+  },
+  "凯里": {
+    "province": "贵州",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 734,
+    "transit_monthly": 57,
+    "bubble_tea": 14,
+    "monthly_total": 1444,
+    "tier": 4
+  },
+  "贵阳": {
+    "province": "贵州",
+    "school_count": 10,
+    "canteen": 11,
+    "rent_near": 800,
+    "transit_monthly": 70,
+    "bubble_tea": 13,
+    "monthly_total": 1600,
+    "tier": 2
+  },
+  "遵义": {
+    "province": "贵州",
+    "school_count": 3,
+    "canteen": 9,
+    "rent_near": 600,
+    "transit_monthly": 55,
+    "bubble_tea": 13,
+    "monthly_total": 1567,
+    "tier": 4
+  },
+  "铜仁": {
+    "province": "贵州",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 633,
+    "transit_monthly": 63,
+    "bubble_tea": 13,
+    "monthly_total": 1411,
+    "tier": 4
+  },
+  "黔南": {
+    "province": "贵州",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 569,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1487,
+    "tier": 4
+  },
+  "大连": {
+    "province": "辽宁",
+    "school_count": 13,
+    "canteen": 13,
+    "rent_near": 1100,
+    "transit_monthly": 80,
+    "bubble_tea": 15,
+    "monthly_total": 2000,
+    "tier": 2
+  },
+  "抚顺": {
+    "province": "辽宁",
+    "school_count": 5,
+    "canteen": 11,
+    "rent_near": 591,
+    "transit_monthly": 56,
+    "bubble_tea": 14,
+    "monthly_total": 1497,
+    "tier": 4
+  },
+  "沈阳": {
+    "province": "辽宁",
+    "school_count": 18,
+    "canteen": 12,
+    "rent_near": 900,
+    "transit_monthly": 70,
+    "bubble_tea": 14,
+    "monthly_total": 1800,
+    "tier": 2
+  },
+  "葫芦岛": {
+    "province": "辽宁",
+    "school_count": 5,
+    "canteen": 11,
+    "rent_near": 609,
+    "transit_monthly": 63,
+    "bubble_tea": 14,
+    "monthly_total": 1549,
+    "tier": 4
+  },
+  "锦州": {
+    "province": "辽宁",
+    "school_count": 7,
+    "canteen": 11,
+    "rent_near": 687,
+    "transit_monthly": 57,
+    "bubble_tea": 12,
+    "monthly_total": 1602,
+    "tier": 4
+  },
+  "阜新": {
+    "province": "辽宁",
+    "school_count": 5,
+    "canteen": 9,
+    "rent_near": 687,
+    "transit_monthly": 56,
+    "bubble_tea": 13,
+    "monthly_total": 1633,
+    "tier": 4
+  },
+  "鞍山": {
+    "province": "辽宁",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 713,
+    "transit_monthly": 59,
+    "bubble_tea": 14,
+    "monthly_total": 1440,
+    "tier": 4
+  },
+  "重庆": {
+    "province": "重庆",
+    "school_count": 16,
+    "canteen": 13,
+    "rent_near": 1200,
+    "transit_monthly": 90,
+    "bubble_tea": 16,
+    "monthly_total": 2100,
+    "tier": 2
+  },
+  "咸阳": {
+    "province": "陕西",
+    "school_count": 3,
+    "canteen": 11,
+    "rent_near": 665,
+    "transit_monthly": 59,
+    "bubble_tea": 12,
+    "monthly_total": 1575,
+    "tier": 4
+  },
+  "宝鸡": {
+    "province": "陕西",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 656,
+    "transit_monthly": 66,
+    "bubble_tea": 12,
+    "monthly_total": 1624,
+    "tier": 4
+  },
+  "延安": {
+    "province": "陕西",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 647,
+    "transit_monthly": 59,
+    "bubble_tea": 14,
+    "monthly_total": 1421,
+    "tier": 4
+  },
+  "榆林": {
+    "province": "陕西",
+    "school_count": 2,
+    "canteen": 10,
+    "rent_near": 662,
+    "transit_monthly": 62,
+    "bubble_tea": 13,
+    "monthly_total": 1495,
+    "tier": 4
+  },
+  "汉中": {
+    "province": "陕西",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 578,
+    "transit_monthly": 57,
+    "bubble_tea": 12,
+    "monthly_total": 1481,
+    "tier": 4
+  },
+  "渭南": {
+    "province": "陕西",
+    "school_count": 2,
+    "canteen": 9,
+    "rent_near": 689,
+    "transit_monthly": 62,
+    "bubble_tea": 14,
+    "monthly_total": 1593,
+    "tier": 4
+  },
+  "西安": {
+    "province": "陕西",
+    "school_count": 22,
+    "canteen": 12,
+    "rent_near": 1000,
+    "transit_monthly": 80,
+    "bubble_tea": 14,
+    "monthly_total": 1900,
+    "tier": 2
+  },
+  "西宁": {
+    "province": "青海",
+    "school_count": 5,
+    "canteen": 10,
+    "rent_near": 650,
+    "transit_monthly": 60,
+    "bubble_tea": 12,
+    "monthly_total": 1400,
+    "tier": 2
+  },
+  "佳木斯": {
+    "province": "黑龙江",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 637,
+    "transit_monthly": 55,
+    "bubble_tea": 13,
+    "monthly_total": 1396,
+    "tier": 4
+  },
+  "哈尔滨": {
+    "province": "黑龙江",
+    "school_count": 15,
+    "canteen": 12,
+    "rent_near": 900,
+    "transit_monthly": 70,
+    "bubble_tea": 14,
+    "monthly_total": 1800,
+    "tier": 2
+  },
+  "大庆": {
+    "province": "黑龙江",
+    "school_count": 5,
+    "canteen": 10,
+    "rent_near": 568,
+    "transit_monthly": 66,
+    "bubble_tea": 12,
+    "monthly_total": 1401,
+    "tier": 4
+  },
+  "牡丹江": {
+    "province": "黑龙江",
+    "school_count": 4,
+    "canteen": 10,
+    "rent_near": 746,
+    "transit_monthly": 65,
+    "bubble_tea": 14,
+    "monthly_total": 1392,
+    "tier": 4
+  },
+  "齐齐哈尔": {
+    "province": "黑龙江",
+    "school_count": 4,
+    "canteen": 9,
+    "rent_near": 666,
+    "transit_monthly": 65,
+    "bubble_tea": 13,
+    "monthly_total": 1555,
+    "tier": 4
+  }
+}

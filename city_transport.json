@@ -1,0 +1,554 @@
+{
+  "北京": {
+    "airports": [
+      {
+        "name": "北京首都国际机场",
+        "code": "PEK",
+        "distance_to_city": "25公里",
+        "how_to_get": "机场线直达市区，约30分钟"
+      },
+      {
+        "name": "北京大兴国际机场",
+        "code": "PKX",
+        "distance_to_city": "46公里",
+        "how_to_get": "大兴机场线直达市区，约40分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "北京西站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁7/9号线，多路公交"
+      },
+      {
+        "name": "北京南站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁4号线，多路公交"
+      },
+      {
+        "name": "北京站",
+        "type": "普通列车",
+        "how_to_get": "地铁2号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "北京地铁覆盖广泛，建议办理一卡通或使用手机APP乘车"
+  },
+  "上海": {
+    "airports": [
+      {
+        "name": "上海浦东国际机场",
+        "code": "PVG",
+        "distance_to_city": "30公里",
+        "how_to_get": "地铁2号线/磁悬浮，约1小时"
+      },
+      {
+        "name": "上海虹桥国际机场",
+        "code": "SHA",
+        "distance_to_city": "13公里",
+        "how_to_get": "地铁2/10号线，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "上海虹桥站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁2/10/17号线，多路公交"
+      },
+      {
+        "name": "上海站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁1/3/4号线，多路公交"
+      },
+      {
+        "name": "上海南站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "上海地铁线路多，建议使用Metro大都会APP扫码乘车"
+  },
+  "广州": {
+    "airports": [
+      {
+        "name": "广州白云国际机场",
+        "code": "CAN",
+        "distance_to_city": "28公里",
+        "how_to_get": "地铁3号线，约45分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "广州南站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁2/7号线，多路公交"
+      },
+      {
+        "name": "广州站",
+        "type": "普通列车",
+        "how_to_get": "地铁2/5号线，多路公交"
+      },
+      {
+        "name": "广州东站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "广州地铁覆盖主要区域，可使用广州地铁APP或羊城通"
+  },
+  "深圳": {
+    "airports": [
+      {
+        "name": "深圳宝安国际机场",
+        "code": "SZX",
+        "distance_to_city": "32公里",
+        "how_to_get": "地铁11号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "深圳北站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁4/5/6号线，多路公交"
+      },
+      {
+        "name": "深圳站",
+        "type": "普通列车",
+        "how_to_get": "地铁1号线，罗湖口岸附近"
+      },
+      {
+        "name": "福田站",
+        "type": "高铁",
+        "how_to_get": "地铁2/3/11号线，市中心"
+      }
+    ],
+    "subway": true,
+    "tips": "深圳地铁可使用深圳地铁APP或深圳通"
+  },
+  "成都": {
+    "airports": [
+      {
+        "name": "成都天府国际机场",
+        "code": "TFU",
+        "distance_to_city": "50公里",
+        "how_to_get": "地铁18号线，约1小时"
+      },
+      {
+        "name": "成都双流国际机场",
+        "code": "CTU",
+        "distance_to_city": "16公里",
+        "how_to_get": "地铁10号线，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "成都东站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁2/7号线，多路公交"
+      },
+      {
+        "name": "成都站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/7号线，多路公交"
+      },
+      {
+        "name": "成都南站",
+        "type": "高铁",
+        "how_to_get": "地铁1/7号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "成都地铁覆盖广泛，可使用天府通APP或成都地铁APP"
+  },
+  "武汉": {
+    "airports": [
+      {
+        "name": "武汉天河国际机场",
+        "code": "WUH",
+        "distance_to_city": "25公里",
+        "how_to_get": "地铁2号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "武汉站",
+        "type": "高铁",
+        "how_to_get": "地铁4号线，多路公交"
+      },
+      {
+        "name": "汉口站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁2/6号线，多路公交"
+      },
+      {
+        "name": "武昌站",
+        "type": "普通列车",
+        "how_to_get": "地铁4/7号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "武汉地铁可使用武汉地铁APP或支付宝/微信乘车码"
+  },
+  "南京": {
+    "airports": [
+      {
+        "name": "南京禄口国际机场",
+        "code": "NKG",
+        "distance_to_city": "35公里",
+        "how_to_get": "地铁S1号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "南京南站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁1/3/S1/S3号线，多路公交"
+      },
+      {
+        "name": "南京站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "南京地铁可使用南京地铁APP或苏畅行APP"
+  },
+  "杭州": {
+    "airports": [
+      {
+        "name": "杭州萧山国际机场",
+        "code": "HGH",
+        "distance_to_city": "27公里",
+        "how_to_get": "地铁1号线/机场大巴，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "杭州东站",
+        "type": "高铁/动车",
+        "how_to_get": "地铁1/4/6/19号线，多路公交"
+      },
+      {
+        "name": "杭州站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/5号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "杭州地铁可使用杭州地铁APP或支付宝乘车码"
+  },
+  "西安": {
+    "airports": [
+      {
+        "name": "西安咸阳国际机场",
+        "code": "XIY",
+        "distance_to_city": "40公里",
+        "how_to_get": "机场大巴/地铁14号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "西安北站",
+        "type": "高铁",
+        "how_to_get": "地铁2/4/14号线，多路公交"
+      },
+      {
+        "name": "西安站",
+        "type": "普通列车",
+        "how_to_get": "地铁4号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "西安地铁可使用西安地铁APP或长安通"
+  },
+  "重庆": {
+    "airports": [
+      {
+        "name": "重庆江北国际机场",
+        "code": "CKG",
+        "distance_to_city": "21公里",
+        "how_to_get": "地铁3号线/10号线，约40分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "重庆北站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁3/10/环线，多路公交"
+      },
+      {
+        "name": "重庆站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "重庆地铁可使用重庆轨道交通APP或宜居畅通卡"
+  },
+  "长沙": {
+    "airports": [
+      {
+        "name": "长沙黄花国际机场",
+        "code": "CSX",
+        "distance_to_city": "22公里",
+        "how_to_get": "地铁6号线/机场大巴，约40分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "长沙南站",
+        "type": "高铁",
+        "how_to_get": "地铁2/4号线，多路公交"
+      },
+      {
+        "name": "长沙站",
+        "type": "普通列车",
+        "how_to_get": "地铁2/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "长沙地铁可使用长沙地铁APP或湘行一卡通"
+  },
+  "哈尔滨": {
+    "airports": [
+      {
+        "name": "哈尔滨太平国际机场",
+        "code": "HRB",
+        "distance_to_city": "37公里",
+        "how_to_get": "机场大巴，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "哈尔滨西站",
+        "type": "高铁",
+        "how_to_get": "地铁3号线，多路公交"
+      },
+      {
+        "name": "哈尔滨站",
+        "type": "普通列车",
+        "how_to_get": "地铁2号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "哈尔滨地铁可使用哈尔滨地铁APP或微信/支付宝乘车码"
+  },
+  "沈阳": {
+    "airports": [
+      {
+        "name": "沈阳桃仙国际机场",
+        "code": "SHE",
+        "distance_to_city": "26公里",
+        "how_to_get": "地铁2号线/机场大巴，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "沈阳南站",
+        "type": "高铁",
+        "how_to_get": "地铁4号线，多路公交"
+      },
+      {
+        "name": "沈阳站",
+        "type": "普通列车",
+        "how_to_get": "地铁1号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "沈阳地铁可使用盛京通APP或微信/支付宝乘车码"
+  },
+  "大连": {
+    "airports": [
+      {
+        "name": "大连周水子国际机场",
+        "code": "DLC",
+        "distance_to_city": "10公里",
+        "how_to_get": "地铁2号线，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "大连站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁3/5号线，多路公交"
+      },
+      {
+        "name": "大连北站",
+        "type": "高铁",
+        "how_to_get": "地铁1/2号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "大连地铁可使用大连地铁APP或明珠卡"
+  },
+  "青岛": {
+    "airports": [
+      {
+        "name": "青岛胶东国际机场",
+        "code": "TAO",
+        "distance_to_city": "55公里",
+        "how_to_get": "地铁8号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "青岛站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      },
+      {
+        "name": "青岛北站",
+        "type": "高铁",
+        "how_to_get": "地铁1/3/8号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "青岛地铁可使用青岛地铁APP或琴岛通"
+  },
+  "厦门": {
+    "airports": [
+      {
+        "name": "厦门高崎国际机场",
+        "code": "XMN",
+        "distance_to_city": "12公里",
+        "how_to_get": "地铁1号线/BRT，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "厦门北站",
+        "type": "高铁",
+        "how_to_get": "地铁1号线，多路公交"
+      },
+      {
+        "name": "厦门站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "厦门地铁可使用厦门地铁APP或e通卡"
+  },
+  "郑州": {
+    "airports": [
+      {
+        "name": "郑州新郑国际机场",
+        "code": "CGO",
+        "distance_to_city": "37公里",
+        "how_to_get": "地铁城郊线/机场大巴，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "郑州东站",
+        "type": "高铁",
+        "how_to_get": "地铁1/5号线，多路公交"
+      },
+      {
+        "name": "郑州站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/10号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "郑州地铁可使用郑州地铁APP或绿城通"
+  },
+  "天津": {
+    "airports": [
+      {
+        "name": "天津滨海国际机场",
+        "code": "TSN",
+        "distance_to_city": "13公里",
+        "how_to_get": "地铁2号线，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "天津站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁2/3/9号线，多路公交"
+      },
+      {
+        "name": "天津西站",
+        "type": "高铁",
+        "how_to_get": "地铁1/6号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "天津地铁可使用天津地铁APP或天津互通卡"
+  },
+  "苏州": {
+    "airports": [
+      {
+        "name": "无机场（最近的机场：上海虹桥/浦东）",
+        "code": "-",
+        "distance_to_city": "上海虹桥80公里",
+        "how_to_get": "高铁到上海虹桥站，约30分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "苏州站",
+        "type": "高铁/普通列车",
+        "how_to_get": "地铁2号线，多路公交"
+      },
+      {
+        "name": "苏州北站",
+        "type": "高铁",
+        "how_to_get": "地铁2号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "苏州地铁可使用苏e行APP或苏州通"
+  },
+  "昆明": {
+    "airports": [
+      {
+        "name": "昆明长水国际机场",
+        "code": "KMG",
+        "distance_to_city": "25公里",
+        "how_to_get": "地铁6号线/机场大巴，约40分钟"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "昆明南站",
+        "type": "高铁",
+        "how_to_get": "地铁1/4号线，多路公交"
+      },
+      {
+        "name": "昆明站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/2号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "昆明地铁可使用昆明地铁APP or 微信/支付宝乘车码"
+  },
+  "合肥": {
+    "airports": [
+      {
+        "name": "合肥新桥国际机场",
+        "code": "HFE",
+        "distance_to_city": "31公里",
+        "how_to_get": "机场大巴/地铁S1号线，约1小时"
+      }
+    ],
+    "train_stations": [
+      {
+        "name": "合肥南站",
+        "type": "高铁",
+        "how_to_get": "地铁1/4/5号线，多路公交"
+      },
+      {
+        "name": "合肥站",
+        "type": "普通列车",
+        "how_to_get": "地铁1/3号线，多路公交"
+      }
+    ],
+    "subway": true,
+    "tips": "合肥地铁可使用合肥轨道APP或合肥通"
+  }
+}

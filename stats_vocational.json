@@ -1,0 +1,276 @@
+{
+  "total_provinces": 31,
+  "total_cities": 194,
+  "total_schools": 956,
+  "fee_distribution": {
+    "600-1000元": 359,
+    "1200-1600元": 28,
+    "800-1200元": 333,
+    "500-800元": 130,
+    "1000-1500元": 106
+  },
+  "dorm_type_distribution": {
+    "4-6人间": 250,
+    "6-8人间": 416,
+    "4人间": 105,
+    "8人间": 151,
+    "6人间": 34
+  },
+  "ac_coverage": 74.4,
+  "heating_coverage": 40.3,
+  "bathroom_types": {
+    "公共卫浴": 428,
+    "混合/其他": 274,
+    "独立卫浴": 254
+  },
+  "bed_types": {
+    "混合/其他": 182,
+    "上床下桌": 546,
+    "上下铺": 228
+  },
+  "network_types": {
+    "校园网": 759,
+    "混合/其他": 22,
+    "校园网+WiFi": 151,
+    "WiFi覆盖": 24
+  },
+  "hot_water_types": {
+    "定时供应": 582,
+    "全天供应": 194,
+    "混合/其他": 180
+  },
+  "top_provinces": [
+    {
+      "name": "广东",
+      "schools": 82,
+      "cities": 13
+    },
+    {
+      "name": "河南",
+      "schools": 57,
+      "cities": 11
+    },
+    {
+      "name": "河北",
+      "schools": 55,
+      "cities": 11
+    },
+    {
+      "name": "江苏",
+      "schools": 51,
+      "cities": 11
+    },
+    {
+      "name": "山东",
+      "schools": 46,
+      "cities": 10
+    },
+    {
+      "name": "湖南",
+      "schools": 46,
+      "cities": 11
+    },
+    {
+      "name": "安徽",
+      "schools": 45,
+      "cities": 8
+    },
+    {
+      "name": "浙江",
+      "schools": 43,
+      "cities": 9
+    },
+    {
+      "name": "四川",
+      "schools": 40,
+      "cities": 10
+    },
+    {
+      "name": "陕西",
+      "schools": 39,
+      "cities": 7
+    },
+    {
+      "name": "辽宁",
+      "schools": 36,
+      "cities": 7
+    },
+    {
+      "name": "江西",
+      "schools": 34,
+      "cities": 7
+    },
+    {
+      "name": "湖北",
+      "schools": 32,
+      "cities": 8
+    },
+    {
+      "name": "云南",
+      "schools": 31,
+      "cities": 6
+    },
+    {
+      "name": "黑龙江",
+      "schools": 31,
+      "cities": 5
+    }
+  ],
+  "province_data": [
+    {
+      "name": "广东",
+      "schools": 82,
+      "cities": 13
+    },
+    {
+      "name": "河南",
+      "schools": 57,
+      "cities": 11
+    },
+    {
+      "name": "河北",
+      "schools": 55,
+      "cities": 11
+    },
+    {
+      "name": "江苏",
+      "schools": 51,
+      "cities": 11
+    },
+    {
+      "name": "山东",
+      "schools": 46,
+      "cities": 10
+    },
+    {
+      "name": "湖南",
+      "schools": 46,
+      "cities": 11
+    },
+    {
+      "name": "安徽",
+      "schools": 45,
+      "cities": 8
+    },
+    {
+      "name": "浙江",
+      "schools": 43,
+      "cities": 9
+    },
+    {
+      "name": "四川",
+      "schools": 40,
+      "cities": 10
+    },
+    {
+      "name": "陕西",
+      "schools": 39,
+      "cities": 7
+    },
+    {
+      "name": "辽宁",
+      "schools": 36,
+      "cities": 7
+    },
+    {
+      "name": "江西",
+      "schools": 34,
+      "cities": 7
+    },
+    {
+      "name": "湖北",
+      "schools": 32,
+      "cities": 8
+    },
+    {
+      "name": "云南",
+      "schools": 31,
+      "cities": 6
+    },
+    {
+      "name": "黑龙江",
+      "schools": 31,
+      "cities": 5
+    },
+    {
+      "name": "山西",
+      "schools": 29,
+      "cities": 7
+    },
+    {
+      "name": "广西",
+      "schools": 29,
+      "cities": 6
+    },
+    {
+      "name": "新疆",
+      "schools": 29,
+      "cities": 7
+    },
+    {
+      "name": "福建",
+      "schools": 27,
+      "cities": 8
+    },
+    {
+      "name": "吉林",
+      "schools": 26,
+      "cities": 6
+    },
+    {
+      "name": "内蒙古",
+      "schools": 24,
+      "cities": 6
+    },
+    {
+      "name": "甘肃",
+      "schools": 22,
+      "cities": 5
+    },
+    {
+      "name": "贵州",
+      "schools": 20,
+      "cities": 5
+    },
+    {
+      "name": "上海",
+      "schools": 18,
+      "cities": 1
+    },
+    {
+      "name": "重庆",
+      "schools": 15,
+      "cities": 1
+    },
+    {
+      "name": "天津",
+      "schools": 14,
+      "cities": 1
+    },
+    {
+      "name": "北京",
+      "schools": 13,
+      "cities": 1
+    },
+    {
+      "name": "宁夏",
+      "schools": 10,
+      "cities": 2
+    },
+    {
+      "name": "海南",
+      "schools": 6,
+      "cities": 2
+    },
+    {
+      "name": "西藏",
+      "schools": 3,
+      "cities": 1
+    },
+    {
+      "name": "青海",
+      "schools": 3,
+      "cities": 1
+    }
+  ]
+}

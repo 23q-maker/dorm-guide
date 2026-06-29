@@ -1,0 +1,11 @@
+﻿node_modules/
+*.bak
+_*.txt
+_*.css
+test-*.html
+test-*.js
+standalone.html
+build_*.py
+theme-override.*
+screenshot.png
+.vercel
